@@ -1,0 +1,925 @@
+{
+	id: "764B0D9E2C544931"
+	group: "2CAA061F34DF66F9"
+	order_index: 1
+	filename: "ranged"
+	title: "RANGED"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "BOWS AND CROSSBOWS"
+			x: -40.0d
+			y: -38.0d
+			description: ["THESE ARE IN NO PARTICULAR ORDER AS THE REQUIREMENTS ARE TO VARRIED"]
+			id: "40982F669F933A90"
+			tasks: [{
+				id: "7AE66AF37DAD75F0"
+				type: "checkmark"
+				title: "BOWS & CROSSBOWS"
+			}]
+		}
+		{
+			x: -40.0d
+			y: -37.0d
+			id: "742A6F3CF9457822"
+			tasks: [{
+				id: "698DF5452B5DBF1D"
+				type: "item"
+				item: {
+					id: "minecraft:bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -37.5d
+			y: -32.0d
+			id: "596726C4B5A6EBC7"
+			tasks: [{
+				id: "7C7CDE3192A77970"
+				type: "item"
+				item: {
+					id: "minecraft:crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -32.0d
+			id: "3266B3BB98BAF684"
+			tasks: [{
+				id: "0ED0E0752AC5E2C4"
+				type: "item"
+				item: {
+					id: "infernalexp:glowsilk_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -36.0d
+			id: "3F6F9266AD410410"
+			tasks: [{
+				id: "66C39C324FC51557"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_bow_level_1"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -35.0d
+			id: "561A2BE70A34D4C3"
+			tasks: [{
+				id: "066A7D3294B0976E"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_bow_level_2"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -34.0d
+			id: "2DC15DF8D99536A6"
+			tasks: [{
+				id: "6EBD84E5DA76BC40"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_bow_level_3"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -33.0d
+			id: "34A0E27C9F8CC490"
+			tasks: [{
+				id: "4A9B3B4CC053F65C"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_bow_level_4"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -31.0d
+			id: "1C3804E25D958860"
+			tasks: [{
+				id: "7E3DDE2E646BA3C9"
+				type: "item"
+				item: {
+					id: "upgradednetherite:netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -34.0d
+			id: "426126DADD7664D8"
+			tasks: [{
+				id: "35691470DC44C192"
+				type: "item"
+				item: {
+					id: "upgradednetherite:netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -30.0d
+			id: "44D11B0ACC5B91EF"
+			tasks: [{
+				id: "2C2E12656CE60E34"
+				type: "item"
+				item: {
+					id: "upgradednetherite:gold_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -29.0d
+			id: "7BD16DCB93CA8F37"
+			tasks: [{
+				id: "30525044C354A197"
+				type: "item"
+				item: {
+					id: "upgradednetherite:fire_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -37.5d
+			y: -36.0d
+			id: "414560105B63AFF8"
+			tasks: [{
+				id: "6D6750E8423CA5E7"
+				type: "item"
+				item: {
+					id: "upgradednetherite:gold_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -37.5d
+			y: -34.0d
+			id: "1651656C229209F5"
+			tasks: [{
+				id: "1661A503E40B8D75"
+				type: "item"
+				item: {
+					id: "upgradednetherite:fire_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -28.0d
+			id: "33E2D304340C0271"
+			tasks: [{
+				id: "6ACF91969B07786C"
+				type: "item"
+				item: {
+					id: "upgradednetherite:ender_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -37.5d
+			y: -33.0d
+			id: "4DFB50A3B32FA66A"
+			tasks: [{
+				id: "5C68A16D70678C63"
+				type: "item"
+				item: {
+					id: "upgradednetherite:ender_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -42.5d
+			y: -27.0d
+			id: "341A9A3175AE106F"
+			tasks: [{
+				id: "578C2D84301FAE72"
+				type: "item"
+				item: {
+					id: "upgradednetherite:water_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -36.0d
+			id: "4690B2E7E764DC54"
+			tasks: [{
+				id: "6F94CFFA955C1DAE"
+				type: "item"
+				item: {
+					id: "upgradednetherite:wither_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -37.5d
+			y: -35.0d
+			id: "13947E104A814068"
+			tasks: [{
+				id: "6ED15174BCD24C4A"
+				type: "item"
+				item: {
+					id: "upgradednetherite:wither_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -35.0d
+			id: "66E87038DBA272DF"
+			tasks: [{
+				id: "0E7547EAC4E31CE9"
+				type: "item"
+				item: {
+					id: "upgradednetherite:poison_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -34.0d
+			id: "196376FB102E1652"
+			tasks: [{
+				id: "6A7965B78B724EE8"
+				type: "item"
+				item: {
+					id: "upgradednetherite:phantom_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -32.0d
+			id: "2764D909B27D0E5E"
+			tasks: [{
+				id: "32696604BBE58DEE"
+				type: "item"
+				item: {
+					id: "upgradednetherite:poison_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -31.0d
+			id: "5BF49F639CFC782C"
+			tasks: [{
+				id: "1164C6CABCDDD6EE"
+				type: "item"
+				item: {
+					id: "upgradednetherite:phantom_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -33.0d
+			id: "5B99647209E1B5AB"
+			tasks: [{
+				id: "7369C8C30BCB9417"
+				type: "item"
+				item: {
+					id: "upgradednetherite:feather_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -35.0d
+			id: "00C4AD2DCD809C04"
+			tasks: [{
+				id: "6441117499627447"
+				type: "item"
+				item: {
+					id: "upgradednetherite:feather_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -32.0d
+			id: "116603CC23EF3061"
+			tasks: [{
+				id: "35EA052C1D500417"
+				type: "item"
+				item: {
+					id: "upgradednetherite:corrupt_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -30.0d
+			id: "04D7B8E560A6FFCC"
+			tasks: [{
+				id: "0FEE3855F310A420"
+				type: "item"
+				item: {
+					id: "upgradednetherite:corrupt_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -30.0d
+			id: "6313030189D9F5EA"
+			tasks: [{
+				id: "7443658CBEFAEE4D"
+				type: "item"
+				item: {
+					id: "upgradednetherite:echo_upgraded_netherite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -36.0d
+			id: "3697EBC3AC636B37"
+			tasks: [{
+				id: "1A6014973AC5494E"
+				type: "item"
+				item: {
+					id: "upgradednetherite:echo_upgraded_netherite_crossbow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -38.5d
+			y: -33.0d
+			id: "7B6D77D295BFAA8C"
+			tasks: [{
+				id: "4D24E58D81ABE0BC"
+				type: "item"
+				item: "parrying:scoped_crossbow"
+			}]
+		}
+		{
+			x: -41.5d
+			y: -31.0d
+			id: "24E06699652D49E3"
+			tasks: [{
+				id: "28FFF0CF116DC88A"
+				type: "item"
+				item: {
+					id: "primalmagick:primalite_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -28.0d
+			id: "5FB569DAEA2B9D2D"
+			tasks: [{
+				id: "6CB23DAB64AB8897"
+				type: "item"
+				item: {
+					id: "primalmagick:hexium_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -41.5d
+			y: -29.0d
+			id: "51A4ADB13C706ECE"
+			tasks: [{
+				id: "31AABBA6258C7894"
+				type: "item"
+				item: {
+					id: "primalmagick:hallowsteel_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -36.0d
+			id: "7C89A4149A6F9DD1"
+			tasks: [{
+				id: "644E0BD169FC4B55"
+				type: "item"
+				item: {
+					id: "aquaculture:neptunium_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -35.0d
+			id: "00AACC2D2DE53A22"
+			tasks: [{
+				id: "78D6B1569484A791"
+				type: "item"
+				item: {
+					id: "primalmagick:forbidden_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 2s
+							id: "primalmagick:soulpiercing"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -34.0d
+			id: "7675AC5AD1A48876"
+			tasks: [{
+				id: "23A7B27BAFC97138"
+				type: "item"
+				item: {
+					id: "ars_nouveau:spell_bow"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -33.0d
+			id: "15565D280FA75984"
+			tasks: [{
+				id: "7297624999271E59"
+				type: "item"
+				item: {
+					id: "greekfantasy:avernal_bow"
+					Count: 1b
+					tag: {
+						Enchantments: [
+							{
+								lvl: 1s
+								id: "minecraft:flame"
+							}
+							{
+								lvl: 1s
+								id: "minecraft:vanishing_curse"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -32.0d
+			id: "387B0C80B51DADF6"
+			tasks: [{
+				id: "66610245D4EC4C9E"
+				type: "item"
+				item: {
+					id: "greekfantasy:apollo_bow"
+					Count: 1b
+					tag: {
+						Enchantments: [{
+							lvl: 1s
+							id: "minecraft:flame"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -31.0d
+			id: "30A12A2E1E3D4015"
+			tasks: [{
+				id: "75B81368927FA2C4"
+				type: "item"
+				item: {
+					id: "greekfantasy:artemis_bow"
+					Count: 1b
+					tag: {
+						Enchantments: [{
+							lvl: 5s
+							id: "minecraft:power"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -30.0d
+			id: "5E5D192C9C5C3372"
+			tasks: [{
+				id: "1A03CD75668D7D2A"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -29.0d
+			id: "0231E2A9AEA3E966"
+			tasks: [{
+				id: "0963EAE0FDDD4206"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -28.0d
+			id: "598807A4488C2934"
+			tasks: [{
+				id: "1F1D469B9FEA5F02"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_bow_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -43.5d
+			y: -27.0d
+			id: "78F91D9B5A9A7100"
+			tasks: [{
+				id: "7DCC1E8B5DC76BC4"
+				type: "item"
+				item: {
+					id: "spirit:soul_steel_bow"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -31.5d
+			y: -38.0d
+			description: ["YES GUNS BECASE WHAT KIND OF RPG DOESNT HAVE GUN SLINGERS"]
+			id: "63FE0823016C3CD5"
+			tasks: [{
+				id: "130167532CCEB7DC"
+				type: "checkmark"
+				title: "GUNS?"
+			}]
+		}
+		{
+			x: -32.5d
+			y: -36.0d
+			id: "0B29CF78EEE7743F"
+			tasks: [{
+				id: "0B70EFFE667D4B10"
+				type: "item"
+				item: {
+					id: "wildwestguns2:single_action_revolver"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -31.5d
+			y: -36.0d
+			id: "1EB133D44525757B"
+			tasks: [{
+				id: "7D0940BD0D691C08"
+				type: "item"
+				item: {
+					id: "wildwestguns2:lever_action_rifle"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -30.5d
+			y: -36.0d
+			id: "03BB618817E4E6A6"
+			tasks: [{
+				id: "118FC58091485E70"
+				type: "item"
+				item: {
+					id: "wildwestguns2:model_3_revolver"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -32.5d
+			y: -35.0d
+			id: "51FF8D396733B0EA"
+			tasks: [{
+				id: "6BEE1EF5BE7C5A10"
+				type: "item"
+				item: {
+					id: "wildwestguns2:double_barrel_shotgun"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -31.5d
+			y: -35.0d
+			id: "272A7EF76673D535"
+			tasks: [{
+				id: "4D72994C92445C9B"
+				type: "item"
+				item: {
+					id: "wildwestguns2:springfield_rifle"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -30.5d
+			y: -35.0d
+			id: "34790FA913F47C93"
+			tasks: [{
+				id: "2FE268F41A4C1D9D"
+				type: "item"
+				item: {
+					id: "wildwestguns2:fallblock_rifle"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -32.5d
+			y: -34.0d
+			id: "3CD119A08360661A"
+			tasks: [{
+				id: "5419C9AFA24E6F15"
+				type: "item"
+				item: {
+					id: "wildwestguns2:sawed_off_shotgun"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -31.5d
+			y: -34.0d
+			id: "72D014B2DAB6A5C7"
+			tasks: [{
+				id: "15D0AEBBB4D66FCE"
+				type: "item"
+				item: {
+					id: "wildwestguns2:pump_action_shotgun"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -30.5d
+			y: -34.0d
+			id: "69C9EB471D23FF30"
+			tasks: [{
+				id: "6F381AAF3C8D4BDE"
+				type: "item"
+				item: {
+					id: "wildwestguns2:volcanic_pistol"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -32.5d
+			y: -33.0d
+			id: "752C948FC5C4264A"
+			tasks: [{
+				id: "0C4F1FB3DC22A88F"
+				type: "item"
+				item: {
+					id: "wildwestguns2:colt_navy_revolver"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -31.5d
+			y: -33.0d
+			id: "4813A7A11D445386"
+			tasks: [{
+				id: "011E2A3DE497E396"
+				type: "item"
+				item: {
+					id: "wildwestguns2:varmint_rifle"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -30.5d
+			y: -33.0d
+			id: "52F9C167280890DF"
+			tasks: [{
+				id: "057D3093D8126ECD"
+				type: "item"
+				item: {
+					id: "wildwestguns2:spencer_carbine"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -32.5d
+			y: -32.0d
+			id: "6FECDD4C78216CD7"
+			tasks: [{
+				id: "35F23109DDEA4459"
+				type: "item"
+				item: {
+					id: "wildwestguns2:springfield_rifled_musket"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

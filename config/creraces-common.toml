@@ -1,0 +1,593 @@
+
+[General]
+	#Allow selecting the Human?
+	AllowHuman = true
+	#Enable Race Griefing?
+	RaceGriefing = true
+	#Enable Fairy & Pixie flight in rain?
+	SagWings = true
+	#Enable Coin drops?
+	CoinDrop = true
+	#Enable Race Overlays? (Like the RaceHUD)
+	RaceOverlays = true
+	#Enable CreRaces popups?
+	Popups = true
+	#Force players to select a race?
+	ForceSelect = false
+	#Enable Experimental mode?
+	Experimental = false
+	#Enable Vampirism & Werewolves compatibility?
+	Vampirism = true
+	#Enable Wings mod compatibility?
+	Wings = true
+	#Enable control of Vanilla teams?
+	UseTeams = false
+	#Enable the Secret Numpad?
+	SecretNumpad = true
+
+[Undead]
+	#Allow the Undead?
+	UndeadAllow = true
+	#Undead A1 cooldown
+	UndeadA1 = 1200.0
+	#Undead A2 cooldown
+	UndeadA2 = 0.0
+	#Undead A3 cooldown
+	UndeadA3 = 0.0
+	#Undead A4 cooldown
+	UndeadA4 = 0.0
+	#Undead Passive cooldown
+	UndeadPassive = 0.0
+	#Undead Health
+	UndeadHP = 20.0
+	#Undead Height
+	UndeadHeight = 1.0
+	#Undead Width 
+	UndeadWidth = 1.0
+
+[Dwarf]
+	#Allow the Dwarf?
+	DwarfAllow = true
+	#Dwarf A1 cooldown
+	DwarfA1 = 820.0
+	#Dwarf A2 cooldown
+	DwarfA2 = 0.0
+	#Dwarf A3 cooldown
+	DwarfA3 = 0.0
+	#Dwarf A4 cooldown
+	DwarfA4 = 0.0
+	#Dwarf Passive cooldown
+	DwarfPassive = 80.0
+	#Dwarf HP
+	DwarfHP = 20.0
+	#Dwarf Height
+	DwarfHeight = 0.86
+	#Dwarf Width
+	DwarfWidth = 0.86
+
+[Dragonborn]
+	#Allow the Dragonborn?
+	DragonbornAllow = true
+	#Dragonborn A1 cooldown
+	DragonbornA1 = 180.0
+	#Dragonborn A2 cooldown
+	DragonbornA2 = 0.0
+	#Dragonborn A3 cooldown
+	DragonbornA3 = 0.0
+	#Dragonborn A4 cooldown
+	DragonbornA4 = 0.0
+	#Dragonborn Passive cooldown
+	DragonbornPassive = 0.0
+	#Dragonborn HP
+	DragonbornHP = 20.0
+	#Dragonborn Height
+	DragonbornHeight = 1.0
+	#Dragonborn Width
+	DragonbornWidth = 1.0
+
+["Dragonborn 2"]
+	test124 = true
+
+["Dragonborn 3"]
+	test324 = true
+
+["Dragonborn 4"]
+	test654 = true
+
+[Harpy]
+	#Allow the Harpy?
+	HarpyAllow = true
+	#Harpy A1 cooldown
+	HarpyA1 = 480.0
+	#Harpy A2 cooldown
+	HarpyA2 = 500.0
+	#Harpy A3 cooldown
+	HarpyA3 = 0.0
+	#Harpy A4 cooldown
+	HarpyA4 = 0.0
+	#Harpy Passive cooldown
+	HarpyPassive = 0.0
+	#Harpy HP
+	HarpyHP = 16.0
+	#Harpy Height
+	HarpyHeight = 0.92
+	#Harpy Width
+	HarpyWidth = 0.92
+	#Harpy Energy Drain
+	HarpyDrain = 0.5
+
+["Light Fairy"]
+	#Allow the Light Fairy?
+	LightFairyAllow = true
+	#Light Fairy A1 cooldown
+	LightFairyA1 = 360.0
+	#Light Fairy A2 cooldown
+	LightFairyA2 = 720.0
+	#Light Fairy A3 cooldown
+	LightFairyA3 = 0.0
+	#Light Fairy A4 cooldown
+	LightFairyA4 = 0.0
+	#Light Fairy Passive cooldown
+	LightFairyPassive = 0.0
+	#Light Fairy HP
+	LightFairyHP = 10.0
+	#Light Fairy Height
+	LightFairyHeight = 0.2
+	LightFairyWidth = 0.2
+
+["Dark Fairy"]
+	#Allow the Dark Fairy?
+	DarkFairyAllow = true
+	#Dark Fairy A1 cooldown
+	DarkFairyA1 = 820.0
+	#Dark Fairy A2 cooldown
+	DarkFairyA2 = 720.0
+	#Dark Fairy A3 cooldown
+	DarkFairyA3 = 0.0
+	#Dark Fairy A4 cooldown
+	DarkFairyA4 = 0.0
+	#Dark Fairy Passive cooldown
+	DarkFairyPassive = 0.0
+	#Dark Fairy HP
+	DarkFairyHP = 10.0
+	#Dark Fairy Height
+	DarkFairyHeight = 0.2
+	#Dark Fairy Width
+	DarkFairyWidth = 0.2
+
+["Spring Fairy"]
+	#Allow the Spring Fairy?
+	SpringFairyAllow = true
+	#Spring Fairy A1 cooldown
+	SpringFairyA1 = 580.0
+	#Spring Fairy A2 cooldown
+	SpringFairyA2 = 720.0
+	#Spring Fairy A3 cooldown
+	SpringFairyA3 = 0.0
+	#Spring Fairy A4 cooldown
+	SpringFairyA4 = 0.0
+	#Spring Fairy Passive cooldown
+	SpringFairyPassive = 0.0
+	#Spring Fairy HP
+	SpringFairyHP = 10.0
+	#Spring Fairy Height
+	SpringFairyHeight = 0.2
+	#Spring Fairy Width
+	SpringFairyWidth = 0.2
+
+["Summer Fairy"]
+	#Allow the Summer Fairy?
+	SummerFairyAllow = true
+	#Summer Fairy A1 cooldown
+	SummerFairyA1 = 60.0
+	#Summer Fairy A2 cooldown
+	SummerFairyA2 = 720.0
+	#Summer Fairy A3 cooldown
+	SummerFairyA3 = 0.0
+	#Summer Fairy A4 cooldown
+	SummerFairyA4 = 0.0
+	#Summer Fairy Passive cooldown
+	SummerFairyPassive = 0.0
+	#Summer Fairy HP
+	SummerFairyHP = 10.0
+	#Summer Fairy Height
+	SummerFairyHeight = 0.2
+	#Summer Fairy Width
+	SummerFairyWidth = 0.2
+
+["Autumn Fairy"]
+	#Allow the Autumn Fairy?
+	AutumnFairyAllow = true
+	#Autumn Fairy A1 cooldown
+	AutumnFairyA1 = 580.0
+	#Autumn Fairy A2 cooldown
+	AutumnFairyA2 = 720.0
+	#Autumn Fairy A3 cooldown
+	AutumnFairyA3 = 0.0
+	#Autumn Fairy A4 cooldown
+	AutumnFairyA4 = 0.0
+	#Autumn Fairy Passive cooldown
+	AutumnFairyPassiive = 0.0
+	#Autumn Fairy HP
+	AutumnFairyHP = 10.0
+	#Autumn Fairy Height
+	AutumnFairyHeight = 0.2
+	#Autumn Fairy Width
+	AutumnFairyWidth = 0.2
+
+["Winter Fairy"]
+	#Allow the Winter Fairy?
+	WinterFairyAllow = true
+	#Winter Fairy A1 cooldown
+	WinterFairyA1 = 180.0
+	#Winter Fairy A2 cooldown
+	WinterFairyA2 = 720.0
+	#Winter Fairy A3 cooldown
+	WinterFairyA3 = 0.0
+	#Winter Fairy A4 cooldown
+	WinterFairyA4 = 0.0
+	#Winter Fairy Passive cooldown
+	WinterFairyPassive = 0.0
+	#Winter Fairy HP
+	WinterFairyHP = 10.0
+	#Winter Fairy Height
+	WinterFairyHeight = 0.2
+	#Winter Fairy Width
+	WinterFairyWidth = 0.2
+
+[Mermaid]
+	#Allow the Mermaid?
+	MermaidAllow = true
+	#Mermaid A1 cooldown
+	MermaidA1 = 120.0
+	#Mermaid A2 cooldown
+	MermaidA2 = 600.0
+	#Mermaid A3 cooldown
+	MermaidA3 = 0.0
+	#Mermaid A4 cooldown
+	MermaidA4 = 0.0
+	#Mermaid Passive cooldown
+	MermaidPassive = 0.0
+	#Mermaid HP
+	MermaidHP = 20.0
+	#Mermaid Height
+	MermaidHeight = 1.0
+	#Mermaid Width
+	MermaidWidth = 1.0
+
+["Mermaid 2"]
+	test543 = true
+
+[Elementalist]
+	#Allow the Elementalist?
+	ElementalistAllow = true
+	#Elementalist A1 cooldown
+	ElementalistA1 = 0.0
+	#Elementalist A2 cooldown
+	ElementalistA2 = 11.0
+	#Elementalist A3 cooldown
+	ElementalistA3 = 13.0
+	#Elementalist A4 cooldown
+	ElementalistA4 = 13.0
+	#Elementalist Passive cooldown
+	ElementalistPassive = 0.0
+	#Elementalist HP
+	ElementalistHP = 20.0
+	#Elementalist Height
+	ElementalistHeight = 1.0
+	#Elementalist Width
+	ElementalistWidth = 1.0
+
+[Golem]
+	#Allow the Golem?
+	GolemAllow = true
+	#Golem A1 cooldown
+	GolemA1 = 2200.0
+	#Golem A2 cooldown
+	GolemA2 = 600.0
+	#Golem A3 cooldown
+	GolemA3 = 0.0
+	#Golem A4 cooldown
+	GolemA4 = 0.0
+	#Golem Passive cooldown
+	GolemPassive = 0.0
+	#Golem HP
+	GolemHP = 20.0
+	#Golem Height
+	GolemHeight = 1.0
+	#Golem Width
+	GolemWidth = 1.0
+
+[Oread]
+	#Allow the Oread?
+	OreadAllow = true
+	#Oread A1 cooldown
+	OreadA1 = 0.0
+	#Oread A2 cooldown
+	OreadA2 = 0.0
+	#Oread A3 cooldown
+	OreadA3 = 0.0
+	#Oread A4 cooldown
+	OreadA4 = 0.0
+	#Oread Passive cooldown
+	OreadPassive = 0.0
+	#Oread HP
+	OreadHP = 16.0
+	#Oread Height
+	OreadHeight = 1.1
+	#Oread Width
+	OreadWidth = 1.0
+
+[Naiad]
+	#Allow the Naiad?
+	NaiadAllow = true
+	#Naiad A1 cooldown
+	NaiadA1 = 420.0
+	#Naiad A2 cooldown
+	NaiadA2 = 240.0
+	#Naiad A3 cooldown
+	NaiadA3 = 480.0
+	#Naiad A4 cooldown
+	NaiadA4 = 720.0
+	#Naiad Passive cooldown
+	NaiadPassive = 0.0
+	#Naiad HP
+	NaiadHP = 16.0
+	#Naiad Height
+	NaiadHeight = 1.1
+	#Naiad Width
+	NaiadWidth = 1.0
+
+[Dryad]
+	#Allow the Dryad?
+	DryadAllow = true
+	#Dryad A1 cooldown
+	DryadA1 = 120.0
+	#Dryad A2 cooldown
+	DryadA2 = 240.0
+	#Dryad A3 cooldown
+	Dryad3 = 480.0
+	#Dryad A4 cooldown
+	Dryad4 = 2400.0
+	#Dryad Passive cooldown
+	DryadPassive = 0.0
+	#Dryad HP
+	DryadHP = 16.0
+	#Dryad Height
+	DryadHeight = 1.1
+	#Dryad Width
+	DryadWidth = 1.0
+
+[Aurai]
+	#Allow the Aurai?
+	AuraiAllow = true
+	#Aurai A1 cooldown
+	AuraiA1 = 0.0
+	#Aurai A2 cooldown
+	AuraiA2 = 0.0
+	#Aurai A3 cooldown
+	AuraiA3 = 0.0
+	#Aurai A4 cooldown
+	AuraiA4 = 0.0
+	#Aurai Passive cooldown
+	AuraiPassive = 0.0
+	#Aurai HP
+	AuraiHP = 16.0
+	#Aurai Height
+	AuraiHeight = 1.1
+	#Aurai Width
+	AuraiWidth = 1.0
+
+[Beastmen]
+	#Allow the Beastmen?
+	BeastmenAllow = true
+	#Beastmen A1 cooldown
+	BeastmenA1 = 380.0
+	#Beastmen A2 cooldown
+	BeastmenA2 = 0.0
+	#Beastmen A3 cooldown
+	BeastmenA3 = 0.0
+	#Beastmen A4 cooldown
+	BeastmenA4 = 0.0
+	#Beastmen Passive cooldown
+	BeastmenPassive = 0.0
+	#Beastmen HP
+	BeastmenHP = 20.0
+	#Beastmen Height
+	BeastmenHeight = 1.0
+	#Beastmen Width
+	BeastmenWidth = 1.0
+
+["Beastmen 2"]
+	test765 = true
+
+["Beastmen 3"]
+	test867 = true
+
+["Beastmen 4"]
+	test361 = true
+
+[Giant]
+	#Allow the Giant?
+	GiantAllow = true
+	#Giant A1 cooldown
+	GiantA1 = 1200.0
+	#Giant A2 cooldown
+	GiantA2 = 880.0
+	#Giant A3 cooldown
+	GiantA3 = 0.0
+	#Giant A4 cooldown
+	GiantA4 = 0.0
+	#Giant Passive cooldown
+	GiantPassive = 0.0
+	#Giant HP
+	GiantHP = 32.0
+	#Giant Height
+	GiantHeight = 2.0
+	#Giant Width
+	GiantWidth = 2.0
+
+[Elf]
+	#Allow the Elf?
+	ElfAllow = true
+	#Elf A1 cooldown
+	ElfA1 = 280.0
+	#Elf A2 cooldown
+	ElfA2 = 280.0
+	#Elf A3 cooldown
+	ElfA3 = 400.0
+	#Elf A4 cooldown
+	ElfA4 = 600.0
+	#Elf Passive cooldown
+	ElfPassive = 0.0
+	#Elf HP
+	ElfHP = 20.0
+	#Elf Height
+	ElfHeight = 1.1
+	#Elf Width
+	ElfWidth = 1.0
+
+[Velox]
+	#Allow the Velox?
+	VeloxAllow = true
+	#Velox A1 cooldown
+	VeloxA1 = 100.0
+	#Velox A2 cooldown
+	VeloxA2 = 80.0
+	#Velox A3 cooldown
+	VeloxA3 = 0.0
+	#Velox A4 cooldown
+	VeloxA4 = 0.0
+	#Velox Passive cooldown
+	VeloxPassive = 12.0
+	#Velox HP
+	VeloxHP = 20.0
+	#Velox Height
+	VeloxHeight = 1.1
+	#Velox Width
+	VeloxWidth = 1.0
+
+[Pixie]
+	#Allow the Pixie?
+	PixieAllow = true
+	#Pixie A1 cooldown
+	PixieA1 = 520.0
+	#Pixie A2 cooldown
+	PixieA2 = 680.0
+	#Pixie A3 cooldown
+	PixieA3 = 1250.0
+	#Pixie A4 cooldown
+	PixieA4 = 360.0
+	#Pixie Passive cooldown
+	PixiePassive = 0.0
+	#Pixie HP
+	PixieHP = 6.0
+	#Pixie Height
+	PixieHeight = 0.2
+	#Pixie Width
+	PixieWidth = 0.2
+
+[Troll]
+	#Allow the Troll?
+	TrollAllow = true
+	#Troll A1 cooldown
+	TrollA1 = 400.0
+	#Troll A2 cooldown
+	TrollA2 = 320.0
+	#Troll A3 cooldown
+	TrollA3 = 0.0
+	#Troll A4 cooldown
+	TrollA4 = 0.0
+	#Troll Passive cooldown
+	TrollPassive = 240.0
+	#Troll HP
+	TrollHP = 24.0
+	#Troll Height
+	TrollHeight = 1.2
+	#Troll Width
+	TrollWidth = 1.2
+
+[Orc]
+	#Allow the Orc?
+	OrcAllow = true
+	#Orc A1 cooldown
+	OrcA1 = 1800.0
+	#Orc A2 cooldown
+	OrcA2 = 520.0
+	#Orc A3 cooldown
+	OrcA3 = 0.0
+	#Orc A4 cooldown
+	OrcA4 = 0.0
+	#Orc Passive cooldown
+	OrcPassive = 0.0
+	#Orc HP
+	OrcHP = 24.0
+	#Orc Height
+	OrcHeight = 1.0
+	#Orc Width
+	OrcWidth = 1.0
+
+[Kitsune]
+	#Allow the Kitsune?
+	KitsuneAllow = true
+	#Kitsune A1 cooldown
+	KitsuneA1 = 500.0
+	#Kitsune A2 cooldown
+	KitsuneA2 = 60.0
+	#Kitsune A3 cooldown
+	KitsuneA3 = 0.0
+	#Kitsune A4 cooldown
+	KitsuneA4 = 0.0
+	#Kitsune Passive cooldown
+	KitsunePassive = 36000.0
+	#Kitsune HP
+	KitsuneHP = 4.0
+	#Kitsune Height
+	KitsuneHeight = 1.0
+	#Kitsune Width
+	KitsuneWidth = 1.0
+
+[Missing]
+	#Allow the Missing?
+	MissingAllow = true
+
+[Slime]
+	#Allow the Slime?
+	SlimeAllow = true
+	#Slime A1 cooldown
+	SlimeA1 = 720.0
+	#Slime A2 cooldown
+	SlimeA2 = 660.0
+	#Slime A3 cooldown
+	SlimeA3 = 0.0
+	#Slime A4 cooldown
+	SlimeA4 = 0.0
+	#Slime Passive cooldown
+	SlimePassive = 0.0
+	#Slime HP
+	SlimeHP = 10.0
+	#Slime Height
+	SlimeHeight = 1.0
+	#Slime Width
+	SlimeWidth = 1.0
+
+[Goblin]
+	#Allow the Goblin?
+	GoblinAllow = true
+	#Goblin A1 cooldown
+	GoblinA1 = 520.0
+	#Goblin A2 cooldown
+	GoblinA2 = 720.0
+	#Goblin A3 cooldown
+	GoblinA3 = 10.0
+	#Goblin A4 cooldown
+	GoblinA4 = 360.0
+	#Goblin Passive cooldown
+	GoblinPassive = 0.0
+	#Goblin HP
+	GoblinHP = 14.0
+	#Goblin Height
+	GoblinHeight = 0.7
+	#Goblin Width
+	GoblinWidth = 0.7
+

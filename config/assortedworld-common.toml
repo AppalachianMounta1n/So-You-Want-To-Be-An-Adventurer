@@ -1,0 +1,78 @@
+
+[Common]
+	#Set this to the chance that a rune will genarate inside a structure.
+	#Range: 0.0 ~ 1.0
+	runeChance = 0.15
+
+[Ruins]
+	#Set this to how rare ruins are to generate.
+	#Range: 0 ~ 2000
+	ruinRarity = 900
+
+#To disable a structure set the spacing to `0` and set the separation to `-1`.
+[Structures]
+	#The average distance apart in chunks between spawn attempts.
+	#Range: 0 ~ 1000
+	fountainSpacing = 32
+	#Minimum distance apart in chunks between spawn attempts. MUST BE LESS THAN `fountainSpacing` VALUE.
+	#Range: -1 ~ 1000
+	fountainSeparation = 10
+	#The average distance apart in chunks between spawn attempts.
+	#Range: 0 ~ 1000
+	pyramidSpacing = 36
+	#Minimum distance apart in chunks between spawn attempts. MUST BE LESS THAN `pyramidSpacing` VALUE.
+	#Range: -1 ~ 1000
+	pyramidSeparation = 10
+	#The average distance apart in chunks between spawn attempts.
+	#Range: 0 ~ 1000
+	snowBallSpacing = 36
+	#Minimum distance apart in chunks between spawn attempts. MUST BE LESS THAN `snowBallSpacing` VALUE.
+	#Range: -1 ~ 1000
+	snowBallSeparation = 21
+	#The average distance apart in chunks between spawn attempts.
+	#Range: 0 ~ 1000
+	waterDomeSpacing = 32
+	#Minimum distance apart in chunks between spawn attempts. MUST BE LESS THAN `waterDomeSpacing` VALUE.
+	#Range: -1 ~ 1000
+	waterDomeSeparation = 14
+	#This value determines how many extra pieces to a water dome are added.
+	#Range: 0 ~ 100
+	waterDomePieceMod = 8
+
+[Spires]
+	#Set this to the chance for a spire to generate.
+	#Range: 0 ~ 2000
+	spireChance = 350
+	#Set this to the radius you would like for the spires.
+	#Range: 0 ~ 100
+	spireRadius = 7
+	#Set this to the height you would like for spires.
+	#Range: 0 ~ 100
+	spireHeight = 40
+	#Set this to the chance for a death spire to generate.
+	#Range: 0.0 ~ 1.0
+	deathSpireChance = 0.001
+
+[Randomite]
+	#Set to true if you would like randomite to generate in your world.
+	generateRandomite = true
+	#Set this to the average count of randomite clusters per chunk.
+	#Range: 0 ~ 256
+	randomiteCount = 12
+	#Set this to the average number of blocks that randomite clusters will generate with.
+	#Range: 0 ~ 64
+	randomiteSize = 8
+
+["Gunpowder Reeds"]
+	#Set to true if you would like gunpowder reeds to generate in your world. This will disable the recipes associated with Gunpowder Reeds as well.
+	generateGunpowderReeds = true
+	#The number of tries that will be used to try and generate gunpowder reeds.
+	#Range: 0 ~ 1000
+	gunpowderReedsTries = 20
+	#The x and z spread that will be used when trying to generate gunpowder reeds.
+	#Range: 0 ~ 1000
+	gunpowderReedsXZSpread = 4
+	#Set this to the chance for a gunpowder reeds to try and generate.
+	#Range: 0 ~ 10000
+	gunpowderReedsRarity = 8
+

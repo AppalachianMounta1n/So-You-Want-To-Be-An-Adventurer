@@ -1,0 +1,9 @@
+
+["Client Configuration"]
+
+	["Client Configuration".Sounds]
+		#Enable the Tesla Armor effect sound - Default true
+		tesla_armor_effect_sound = true
+		#Set the range of the Panic Alarm's sound - Default 48
+		panic_alarm_range = 48
+

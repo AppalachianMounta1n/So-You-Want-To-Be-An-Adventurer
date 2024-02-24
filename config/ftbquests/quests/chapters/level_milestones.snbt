@@ -1,0 +1,190 @@
+{
+	id: "3BF7DE3BB5B46B90"
+	group: ""
+	order_index: 1
+	filename: "level_milestones"
+	title: "Level milestones"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "level 5"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -5.5d
+			y: 0.5d
+			id: "4154D42F76A0AB61"
+			tasks: [{
+				id: "4236137F1EE47C23"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 5.0d
+			}]
+		}
+		{
+			title: "level 15"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -4.5d
+			y: 0.5d
+			dependencies: ["4154D42F76A0AB61"]
+			id: "67783B62E2AE472C"
+			tasks: [{
+				id: "5AB36D2BD90ABDC5"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 15.0d
+			}]
+		}
+		{
+			title: "level 20"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -3.5d
+			y: 0.5d
+			dependencies: ["67783B62E2AE472C"]
+			id: "1DFE23D9ADEE8A10"
+			tasks: [{
+				id: "1541CA2B8153ACF0"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 20.0d
+			}]
+		}
+		{
+			title: "level 30"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -2.5d
+			y: 0.5d
+			dependencies: ["1DFE23D9ADEE8A10"]
+			id: "292F1095F599E344"
+			tasks: [{
+				id: "086A0648D1A6C5A5"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 30.0d
+			}]
+		}
+		{
+			title: "level 40"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -1.5d
+			y: 0.5d
+			dependencies: ["292F1095F599E344"]
+			id: "753A63DFCB79D157"
+			tasks: [{
+				id: "54145A0E46710684"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 40.0d
+			}]
+		}
+		{
+			title: "level 50"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -0.5d
+			y: 0.5d
+			dependencies: ["753A63DFCB79D157"]
+			id: "5DCC062681553AF3"
+			tasks: [{
+				id: "70C8D2F955A5CF2B"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 50.0d
+			}]
+		}
+		{
+			title: "level 100"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.5d
+			y: 0.5d
+			dependencies: ["5DCC062681553AF3"]
+			id: "6C802A3114365324"
+			tasks: [{
+				id: "2984F4D50D635B15"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 100.0d
+			}]
+		}
+		{
+			title: "level 200"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 1.5d
+			y: 0.5d
+			dependencies: ["6C802A3114365324"]
+			id: "49C81AE86F5C1B98"
+			tasks: [{
+				id: "49F2F25577078D58"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 200.0d
+			}]
+		}
+		{
+			title: "level 1523"
+			icon: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 2.5d
+			y: 0.5d
+			dependencies: ["49C81AE86F5C1B98"]
+			id: "6DCAF2001E6E68B7"
+			tasks: [{
+				id: "21E325AD7BCE3D48"
+				type: "pmmo:skill"
+				skill: "combat"
+				requiredLevel: 1523.0d
+			}]
+		}
+	]
+}

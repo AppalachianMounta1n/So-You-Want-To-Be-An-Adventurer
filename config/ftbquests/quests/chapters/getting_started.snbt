@@ -1,0 +1,145 @@
+{
+	id: "534FA9C442C60ED0"
+	group: ""
+	order_index: 0
+	filename: "getting_started"
+	title: "GETTING STARTED"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 14.0d
+			y: 6.5d
+			description: ["Welcome adventurer!! This project is an ambitous project to provide a difficult yet rewarding RPG pack that has a little something for everyone"]
+			id: "16BD0FC95C9257BB"
+			tasks: [{
+				id: "6FCE6564E592B06A"
+				type: "checkmark"
+				title: "SO YOU WANT TO BE AN ADVENTURER"
+			}]
+			rewards: [{
+				id: "68B511CDBE406523"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			x: 12.5d
+			y: 7.5d
+			description: ["This pack uses Project MMO and as such many things are locked behind levels. Currently you are limited to no armor and only wooden tools. Unlock more by leveling up your combat, agility, and mining to unlock better equipment. "]
+			dependencies: ["16BD0FC95C9257BB"]
+			id: "137918AC512DAA2D"
+			tasks: [{
+				id: "01E6B1332E2C3B63"
+				type: "checkmark"
+				title: "Project MMO"
+			}]
+			rewards: [{
+				id: "768947D97D58F883"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+		}
+		{
+			x: 14.0d
+			y: 7.5d
+			description: ["When you joined you should have been prompted to select a race. these races level up over time and become stronger!"]
+			dependencies: ["16BD0FC95C9257BB"]
+			id: "5B2FEB8F1A825C96"
+			tasks: [{
+				id: "4B0F1FA4235E84CF"
+				type: "checkmark"
+				title: "Races"
+			}]
+			rewards: [
+				{
+					id: "7DC24A866439B250"
+					type: "item"
+					item: {
+						id: "creraces:race_book"
+						Count: 1b
+						ForgeCaps: {
+							Parent: {
+								Size: 0
+								Items: [ ]
+							}
+						}
+					}
+				}
+				{
+					id: "493724774B90FF63"
+					type: "item"
+					item: {
+						id: "creraces:recipe_book"
+						Count: 1b
+						ForgeCaps: {
+							Parent: {
+								Size: 0
+								Items: [ ]
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 14.0d
+			y: 9.0d
+			description: ["use the command /racegui to remove the race gui (cheats not needed)"]
+			dependencies: ["5B2FEB8F1A825C96"]
+			id: "3A905F4AC27374C8"
+			tasks: [{
+				id: "5B1FC3BBA50F6CBF"
+				type: "checkmark"
+				title: "dont like the gui?"
+			}]
+		}
+		{
+			x: 15.5d
+			y: 7.5d
+			description: [
+				"use the "
+				"Use the Class Pick book to select your class for more perks and abilities"
+			]
+			dependencies: ["16BD0FC95C9257BB"]
+			id: "556E368354DC3A6C"
+			tasks: [{
+				id: "120C177F3348F87F"
+				type: "checkmark"
+				title: "Select your class"
+			}]
+			rewards: [{
+				id: "4DF918965C856478"
+				type: "item"
+				item: "lootbagmod:lootbag"
+			}]
+		}
+		{
+			x: 17.0d
+			y: 7.5d
+			description: ["finally select your job and collect coins by leveling up your job to unlock equipment and abilities"]
+			dependencies: ["16BD0FC95C9257BB"]
+			id: "5CC00C6F1E9BE32F"
+			tasks: [{
+				id: "16B77D732A68E24E"
+				type: "checkmark"
+				title: "Select your Job"
+			}]
+			rewards: [{
+				id: "63016889B62732E8"
+				type: "item"
+				item: "lootbagmod:lootbag"
+			}]
+		}
+		{
+			x: 21.0d
+			y: 12.0d
+			id: "27007DDB4A7707AB"
+			tasks: [{
+				id: "7C426E4EDAF0B1B0"
+				type: "checkmark"
+				title: "This is all still a work in progress"
+			}]
+		}
+	]
+}

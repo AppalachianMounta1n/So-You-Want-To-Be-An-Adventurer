@@ -1,0 +1,169 @@
+
+["Server Configuration"]
+
+	["Server Configuration".Miscellaneous]
+		#Set the maximum number of particles produced by the smoke grenade - Default 96
+		#Setting this higher can make clients laggy, setting to 0 effectively disables it
+		"Max smoke grenade particles" = 96
+		#Enable bullets breaking glass - Default true
+		"Bullets can break glass" = true
+		#Enable the Tiltros dimension portal - Default true
+		"Tiltros dimension is accessible via the portal" = true
+
+	["Server Configuration"."Entity Spawns"]
+
+		["Server Configuration"."Entity Spawns"."Dying Soldier"]
+			#Enable the natural spawning of Dying Soldiers - Default true
+			enable_dying_soldier_spawn = true
+			#Set the spawn weight of Dying Soldiers - Default 95
+			dying_soldier_spawn_weight = 95
+			#Set the minimum spawn count of Dying Soldiers - Default 2
+			dying_soldier_spawn_min_count = 2
+			#Set the maximum spawn count of Dying Soldiers - Default 4
+			dying_soldier_spawn_max_count = 4
+
+		["Server Configuration"."Entity Spawns"."Wandering Warrior"]
+			#Enable the natural spawning of Wandering Warriors - Default true
+			enable_wandering_warriors_spawn = true
+			#Set the spawn weight of Wandering Warriors - Default 65
+			wandering_warriors_spawn_weight = 65
+			#Set the minimum spawn count of Wandering Warriors - Default 1
+			wandering_warriors_spawn_min_count = 1
+			#Set the maximum spawn count of Wandering Warriors - Default 1
+			wandering_warriors_spawn_max_count = 1
+
+		["Server Configuration"."Entity Spawns".Hans]
+			#Enable the natural spawning of Hans the Almighty - Default true
+			enable_hans_spawn = true
+			#Set the spawn weight of Hans the Almighty - Default 3
+			hans_spawn_weight = 3
+			#Set the minimum spawn count of Hans the Almighty - Default 1
+			hans_spawn_min_count = 1
+			#Set the maximum spawn count of Hans the Almighty - Default 1
+			hans_spawn_max_count = 1
+
+		["Server Configuration"."Entity Spawns"."Lava Revenant"]
+			#Enable the natural spawning of Lava Revenants - Default true
+			enable_lava_revenant_spawn = true
+			#Set the spawn weight of Lava Revenants - Default 35
+			lava_revenant_spawn_weight = 35
+			#Set the minimum spawn count of Lava Revenants - Default 1
+			lava_revenant_spawn_min_count = 1
+			#Set the maximum spawn count of Lava Revenants - Default 1
+			lava_revenant_spawn_max_count = 1
+
+		["Server Configuration"."Entity Spawns"."Rock Spider"]
+			#Enable the natural spawning of Rock Spiders - Default true
+			enable_rock_spider_spawn = true
+			#Set the spawn weight of Rock Spiders - Default 65
+			rock_spider_spawn_weight = 65
+			#Set the minimum spawn count of Rock Spiders - Default 2
+			rock_spider_spawn_min_count = 2
+			#Set the maximum spawn count of Rock Spiders - Default 4
+			rock_spider_spawn_max_count = 4
+
+		["Server Configuration"."Entity Spawns"."Celestial Tower"]
+			#Enable the natural spawning of Celestial Towers - Default true
+			enable_celestial_tower_spawn = true
+			#Set the spawn weight of Celestial Towers - Default 5
+			celestial_tower_spawn_weight = 5
+			#Set the minimum spawn count of Celestial Towers - Default 1
+			celestial_tower_spawn_min_count = 1
+			#Set the maximum spawn count of Celestial Towers - Default 1
+			celestial_tower_spawn_max_count = 1
+			#Set the spawn checking radius for the Celestial Tower.
+			#Setting this higher may slightly negatively impact server ticks in Tiltros, but make Celestial Lanterns more effective - Default 128
+			"Celestial Tower spawn checking radius" = 128
+			#Multiplier to change the wave size from Celestial Tower summons.
+			#Set less than 1 to reduce, greater than 1 to increase.
+			#Increasing the wave size will negatively affect the server ticks in Tiltros. - Default 1.0
+			"Celestial Tower wave size modifier" = 1.0
+
+	["Server Configuration"."Ore Generation"]
+
+		#Note: A configuration will not exist for every ore. Ores found in structures (like Electric Ore) will not have configurations.
+		#Instead, modify the structure separation settings.
+		["Server Configuration"."Ore Generation"."Molten Ore"]
+			#Enable generation of Molten Ore
+			"Enable Molten Ore Generation" = true
+			#Range: > 1
+			"Molten Ore weight" = 6
+			#Range: -64 ~ 320
+			"Molten Ore top anchor" = 64
+			#Range: -64 ~ 320
+			"Molten Ore bottom anchor" = -64
+			#Range: > 0
+			"Molten Ore size" = 2
+			#Range: 0.0 ~ 1.0
+			"Molten Ore exposed to air discard chance" = 0.85
+
+		["Server Configuration"."Ore Generation"."Nether Sulfur Ore"]
+			#Enable generation of Nether Sulfur Ore
+			"Enable Nether Sulfur Ore generation" = true
+			#Range: > 1
+			"Nether Sulfur Ore weight" = 16
+			#Range: -64 ~ 320
+			"Nether Sulfur Ore top anchor" = 128
+			#Range: -64 ~ 320
+			"Nether Sulfur Ore bottom anchor" = -16
+			#Range: > 0
+			"Nether Sulfur Ore size" = 12
+			#Range: 0.0 ~ 1.0
+			"Nether Sulfur Ore exposed to air discard chance" = 0.08
+
+		["Server Configuration"."Ore Generation"."Sulfur Ore"]
+			#Enable generation of Sulfur Ore
+			"Enable Sulfur Ore generation" = true
+			#Range: > 1
+			"Sulfur Ore weight" = 6
+			#Range: -64 ~ 320
+			"Sulfur Ore top anchor" = 196
+			#Range: -64 ~ 320
+			"Sulfur Ore bottom anchor" = 32
+			#Range: > 0
+			"Sulfur Ore size" = 4
+			#Range: 0.0 ~ 1.0
+			"Sulfur Ore exposed to air discard chance" = 0.1
+
+		["Server Configuration"."Ore Generation"."Deepslate Sulfur Ore"]
+			#Enable generation of Deepslate Sulfur Ore
+			"Enable Deepslate Sulfur Ore generation" = true
+			#Range: > 1
+			"Deepslate Sulfur Ore weight" = 16
+			#Range: -64 ~ 320
+			"Deepslate Sulfur Ore top anchor" = 0
+			#Range: -64 ~ 320
+			"Deepslate Sulfur Ore bottom anchor" = -64
+			#Range: > 0
+			"Deepslate Sulfur Ore size" = 4
+			#Range: 0.0 ~ 1.0
+			"Deepslate Sulfur Ore exposed to air discard chance" = 0.04
+
+		["Server Configuration"."Ore Generation"."Cobalt Ore"]
+			#Enable generation of Cobalt Ore
+			"Enable Cobalt Ore generation" = true
+			#Range: > 1
+			"Cobalt Ore weight" = 12
+			#Range: -64 ~ 320
+			"Cobalt Ore top anchor" = 196
+			#Range: -64 ~ 320
+			"Cobalt Ore bottom anchor" = 7
+			#Range: > 0
+			"Cobalt Ore size" = 6
+			#Range: 0.0 ~ 1.0
+			"Cobalt Ore exposed to air discard chance" = 0.15
+
+		["Server Configuration"."Ore Generation"."Deepslate Cobalt Ore"]
+			#Enable generation of Deepslate Cobalt Ore
+			"Enable Deepslate Cobalt Ore generation" = true
+			#Range: > 1
+			"Deepslate Cobalt Ore weight" = 12
+			#Range: -64 ~ 320
+			"Deepslate Cobalt Ore top anchor" = 0
+			#Range: -64 ~ 320
+			"Deepslate Cobalt Ore bottom anchor" = -64
+			#Range: > 0
+			"Deepslate Cobalt Ore size" = 12
+			#Range: 0.0 ~ 1.0
+			"Deepslate Cobalt Ore exposed to air discard chance" = 0.1
+

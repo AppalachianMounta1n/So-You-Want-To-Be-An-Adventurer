@@ -1,0 +1,65 @@
+#Health of a golem
+#Range: 0.0 ~ 1.7976931348623157E308
+"Golem Health" = 40.0
+#Base attack of a golem
+#Range: 0.0 ~ 1.7976931348623157E308
+"Golem Attack" = 2.5
+#Home radius of golems
+#Range: > 0
+"Golem Home" = 9
+#If equipment given to golems should take durability damage
+"Equipment Damage" = true
+#Item to make golems able to fly. Can't fly continously during fights.
+"Fly Item" = "minecraft:nether_star"
+#Item to increase golems movement speed
+"Speed Item" = "minecraft:sugar"
+#Max amount of speed upgrades. Each upgrade increases speed by 0.02 and flyspeed by 0.04
+#Range: > 0
+"Speed Max" = 10
+#Item to increase golems base damage
+"Damage Item" = "minecraft:diamond"
+#Max amount of damage upgrades. Each upgrade increases damage by 0.5
+#Range: > 0
+"Damage Max" = 5
+#Item to increase golems health
+"Health Item" = "minecraft:golden_melon"
+#Max amount of health upgrades. Each upgrade increases health by 1
+#Range: > 0
+"Health Max" = 10
+#Item to make a golem immune to fire damage
+"Fire Resistant Item" = "minecraft:air"
+#Item to increase golems knockback resistance
+"Knockback Item" = "minecraft:obsidian"
+#Max amount of knockback resistance upgrades. Each upgrade increases resistance by 1
+#Range: > 0
+"Knockback Resistance Max" = 5
+#Item to increase golems fly duration during fights
+"Fly Duration Item" = "minecraft:feather"
+#Max amount of fly duration upgrades. Each upgrade increases the time to fly by 10 ticks. 10 upgrades doubles the fly time
+#Range: > 0
+"Fly Duration Max" = 10
+#Item to increase golems regenerative abilities
+"Regen Item" = "minecraft:ghast_tear"
+#Max amount of regen upgrades. Each upgrade decreases the out of combat time to heal by 10 and decreases the heal delay by 3
+#Range: > 0
+"Regen Max" = 10
+#Item to increase the home radius
+"Home Radius Item" = "minecraft:glass"
+#Max amount of home radius increases
+#Range: > 0
+"Home Radius Increase Max" = 5
+#Item make the golem enrage nearby hostile mobs making them go after the golem
+"Enrage Item" = "minecraft:carved_pumpkin"
+#Item to make a golems projectile piercing: Piercing projectiles pass through all mobs except the golems current target
+"Piercing Projectiles Item" = "minecraft:flint"
+#Amount of damage in percent that a golem with a shield reduces
+#Range: 0.0 ~ 1.0
+"Shield Damage Reduction" = 0.25
+#Chance that a golem blocks an incoming projectile
+#Range: 0.0 ~ 1.0
+"Projectile Block Chance" = 0.25
+#If true golems shutdown instead of dying. You need to revive them again
+"Immortal Golem" = true
+#Item needed to revive a shutdown golem
+"Revive Item" = "minecraft:golden_apple"
+

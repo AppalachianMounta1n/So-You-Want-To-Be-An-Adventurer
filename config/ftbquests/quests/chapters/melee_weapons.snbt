@@ -1,0 +1,2175 @@
+{
+	id: "1D1BE17FB37C20AC"
+	group: "2CAA061F34DF66F9"
+	order_index: 0
+	filename: "melee_weapons"
+	title: "Swords"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -21.5d
+			y: -38.5d
+			id: "53CA900EE60DB52B"
+			tasks: [{
+				id: "0E3D7F50CA2150FE"
+				type: "item"
+				item: {
+					id: "minecraft:wooden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -19.5d
+			y: -38.5d
+			id: "6A6EEBD44ACB564B"
+			tasks: [{
+				id: "488D878BE27703A4"
+				type: "item"
+				item: {
+					id: "minecraft:stone_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -16.5d
+			id: "0A8ED5AFA9D047B9"
+			tasks: [{
+				id: "3C8792110F71EA00"
+				type: "item"
+				item: {
+					id: "minecraft:golden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -38.5d
+			id: "2A0D386F31A85F2D"
+			tasks: [{
+				id: "6C89A75AD3915F70"
+				type: "item"
+				item: {
+					id: "minecraft:iron_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -35.5d
+			id: "19DB949905E1223E"
+			tasks: [{
+				id: "38A92C0C4C09A030"
+				type: "item"
+				item: {
+					id: "minecraft:diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -34.5d
+			id: "4D5746C841FDCB5C"
+			tasks: [{
+				id: "5B3B92C89E6FDDFD"
+				type: "item"
+				item: {
+					id: "minecraft:netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -15.5d
+			id: "347F7584B28BFDA1"
+			tasks: [{
+				id: "359AA1334A8EDA8C"
+				type: "item"
+				item: {
+					id: "create_stuff_additions:brass_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -14.5d
+			id: "2F4DD4ECDFC4F7C9"
+			tasks: [{
+				id: "6CC16FDDD855FCBF"
+				type: "item"
+				item: {
+					id: "create_stuff_additions:zinc_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -13.5d
+			id: "7758BB287B08186A"
+			tasks: [{
+				id: "3F301E4235BC4BAA"
+				type: "item"
+				item: {
+					id: "create_stuff_additions:copper_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -30.5d
+			id: "598FBC6078EEBF0B"
+			tasks: [{
+				id: "73960DC86383FFB6"
+				type: "item"
+				item: {
+					id: "create_stuff_additions:rose_quartz_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -12.5d
+			id: "447572C020F4F23C"
+			tasks: [{
+				id: "25E9A590E73C55FD"
+				type: "item"
+				item: {
+					id: "create_stuff_additions:experience_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -31.5d
+			id: "7B75B50B2EF52A32"
+			tasks: [{
+				id: "3363475E36619938"
+				type: "item"
+				item: {
+					id: "majruszsdifficulty:enderium_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -11.5d
+			id: "2821ACAC3D98F9C4"
+			tasks: [{
+				id: "0EC354D4A1B0B10E"
+				type: "item"
+				item: {
+					id: "majruszsdifficulty:wither_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -32.5d
+			id: "613AD2D3A79EBE04"
+			tasks: [{
+				id: "6203DF6A8B11ED05"
+				type: "item"
+				item: {
+					id: "stalwart_dungeons:tungsten_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -33.5d
+			id: "4A8F92FCD3BBE315"
+			tasks: [{
+				id: "397DFE4DCF1717EB"
+				type: "item"
+				item: {
+					id: "stalwart_dungeons:chorundum_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -34.5d
+			id: "6179AFCDD804369D"
+			tasks: [{
+				id: "3B95B0ABB5B73214"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_sword_level_1"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -29.5d
+			id: "36BA356919EF9773"
+			tasks: [{
+				id: "60D254825A32E8A6"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_sword_level_2"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -35.5d
+			id: "210878E1BDF64C5A"
+			tasks: [{
+				id: "6D0E3262FE4CBEA6"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_sword_level_3"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -38.5d
+			id: "4C70AA592C832E87"
+			tasks: [{
+				id: "6A30471D14593EBD"
+				type: "item"
+				item: {
+					id: "jobsplus:hunters_sword_level_4"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -34.5d
+			id: "3F40F44A6E7F7860"
+			tasks: [{
+				id: "16DA07428E85A166"
+				type: "item"
+				item: {
+					id: "upgradednetherite:gold_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -33.5d
+			id: "1AD8BC21DA063C86"
+			tasks: [{
+				id: "109480C0BA703D26"
+				type: "item"
+				item: {
+					id: "upgradednetherite:fire_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -32.5d
+			id: "482D27E98BD636EB"
+			tasks: [{
+				id: "6C7C880A79423622"
+				type: "item"
+				item: {
+					id: "upgradednetherite:ender_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -31.5d
+			id: "04C331CFA56A84D6"
+			tasks: [{
+				id: "407E1ADB59827BB3"
+				type: "item"
+				item: {
+					id: "upgradednetherite:water_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -30.5d
+			id: "636994816C1F89D1"
+			tasks: [{
+				id: "02892B247FAE4691"
+				type: "item"
+				item: {
+					id: "upgradednetherite:wither_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -29.5d
+			id: "6335973E6857677E"
+			tasks: [{
+				id: "2060E3C843D70E63"
+				type: "item"
+				item: {
+					id: "upgradednetherite:poison_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -28.5d
+			id: "276C251FD28847D7"
+			tasks: [{
+				id: "55427EDE2F12B236"
+				type: "item"
+				item: {
+					id: "upgradednetherite:phantom_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -36.5d
+			id: "1950F85D134214D4"
+			tasks: [{
+				id: "1BEC32A1C4A97F0F"
+				type: "item"
+				item: {
+					id: "upgradednetherite:feather_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -32.5d
+			id: "531CC0BA44E96567"
+			tasks: [{
+				id: "43186C59E7AD3B3B"
+				type: "item"
+				item: {
+					id: "upgradednetherite:corrupt_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -33.5d
+			id: "73E7AA6599A4BF1E"
+			tasks: [{
+				id: "3AD3BA7FE444B715"
+				type: "item"
+				item: {
+					id: "upgradednetherite:echo_upgraded_netherite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -37.5d
+			id: "0EF1B70633A27BA8"
+			tasks: [{
+				id: "6B119E4D241DF1C3"
+				type: "item"
+				item: {
+					id: "elementalswords:fire_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -37.5d
+			id: "7C10EBF1BF66FD69"
+			tasks: [{
+				id: "3E65078B373AF78B"
+				type: "item"
+				item: {
+					id: "elementalswords:water_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -36.5d
+			id: "6D6CFDAD9395A49A"
+			tasks: [{
+				id: "200D11001740D29E"
+				type: "item"
+				item: {
+					id: "elementalswords:air_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -7.5d
+			y: -38.5d
+			id: "4C2922DC25E05BBE"
+			tasks: [{
+				id: "12F56D61099E49B7"
+				type: "item"
+				item: {
+					id: "elementalswords:earth_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: -38.0d
+			id: "3D49C3016BF90A0C"
+			tasks: [{
+				id: "54149C8A7352ADE4"
+				type: "item"
+				item: {
+					id: "elementalswords:fusion_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -31.5d
+			id: "2B16D1AC3EFE6BD6"
+			tasks: [{
+				id: "04146454DE647160"
+				type: "item"
+				item: {
+					id: "advancednetherite:netherite_iron_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -28.5d
+			id: "27DCEFFBE3889659"
+			tasks: [{
+				id: "581EE94FE3566439"
+				type: "item"
+				item: {
+					id: "advancednetherite:netherite_gold_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -30.5d
+			id: "1544FF2CF2A74D67"
+			tasks: [{
+				id: "2167E1502C5E68CD"
+				type: "item"
+				item: {
+					id: "advancednetherite:netherite_gold_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -27.5d
+			id: "2066F1686CA31E57"
+			tasks: [{
+				id: "76163E79BDCFF714"
+				type: "item"
+				item: {
+					id: "advancednetherite:netherite_emerald_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -38.5d
+			id: "52ED94631CF3F8BB"
+			tasks: [{
+				id: "7337533017F28140"
+				type: "item"
+				item: {
+					id: "advancednetherite:netherite_diamond_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -10.5d
+			id: "7F2DCD34A0E00E1F"
+			tasks: [{
+				id: "75CD38EF4091C112"
+				type: "item"
+				item: {
+					id: "medieval_craft:long_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -9.5d
+			id: "613D353D462020FF"
+			tasks: [{
+				id: "578E82C473E71B63"
+				type: "item"
+				item: {
+					id: "kobolds:kobold_iron_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -8.5d
+			id: "0C1EBFF0419284A7"
+			tasks: [{
+				id: "4D5826D37B4B925B"
+				type: "item"
+				item: {
+					id: "pickletweaks:flint_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -25.5d
+			id: "4BCCC9D15168E866"
+			tasks: [{
+				id: "5F8AEDC837CB8198"
+				type: "item"
+				item: {
+					id: "pickletweaks:emerald_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -27.5d
+			id: "25E12C7FCFFEAF4E"
+			tasks: [{
+				id: "14F7004945839F72"
+				type: "item"
+				item: {
+					id: "aquaculture:neptunium_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -37.5d
+			id: "68710FA462EB83B6"
+			tasks: [{
+				id: "2DE8A38FC6073D94"
+				type: "item"
+				item: {
+					id: "blue_skies:different_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -37.5d
+			dependency_requirement: "one_completed"
+			id: "38BBE99FD6BECEA4"
+			tasks: [
+				{
+					id: "00F08C85BB74A0F3"
+					type: "item"
+					item: {
+						id: "blue_skies:bluebright_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "472C284C9553F1BF"
+					type: "item"
+					item: {
+						id: "blue_skies:starlit_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "37EA3E62E8694AEC"
+					type: "item"
+					item: {
+						id: "blue_skies:dusk_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "78263355CE6A3BF6"
+					type: "item"
+					item: {
+						id: "blue_skies:frostbright_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "76EC7EA5DE328DDD"
+					type: "item"
+					item: {
+						id: "blue_skies:maple_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "47321DC759039915"
+					type: "item"
+					item: {
+						id: "blue_skies:cherry_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1DAE713A84C3E7A5"
+					type: "item"
+					item: {
+						id: "blue_skies:turquoise_stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -17.5d
+			y: -36.5d
+			id: "3DDEED13E7308701"
+			tasks: [
+				{
+					id: "5A85C4F6B75DC35A"
+					type: "item"
+					item: {
+						id: "blue_skies:lunar_stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "0B663F16DA07EE71"
+					type: "item"
+					item: {
+						id: "blue_skies:turquoise_stone_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -15.5d
+			y: -7.5d
+			id: "7002B12455127CCA"
+			tasks: [{
+				id: "688071A9420EB56E"
+				type: "item"
+				item: {
+					id: "blue_skies:pyrope_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -6.5d
+			id: "4E90F2448A38E1BC"
+			tasks: [{
+				id: "674BE31EE4F72EA6"
+				type: "item"
+				item: {
+					id: "blue_skies:aquite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -5.5d
+			id: "2513262316D9D7C7"
+			tasks: [{
+				id: "5F5BF7127CEF4324"
+				type: "item"
+				item: {
+					id: "blue_skies:diopside_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -17.5d
+			id: "572E452E718E5F5E"
+			tasks: [{
+				id: "625BBCDA02973B4E"
+				type: "item"
+				item: {
+					id: "blue_skies:charoite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -18.5d
+			id: "7C8AA797809D5507"
+			tasks: [{
+				id: "7F0D89F23F7F2A8A"
+				type: "item"
+				item: {
+					id: "blue_skies:horizonite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -19.5d
+			id: "521417A25517EBE9"
+			tasks: [{
+				id: "2D7A7E7A84FF19F3"
+				type: "item"
+				item: {
+					id: "blazegear:brimsteel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -20.5d
+			id: "2750A0CB0557376F"
+			tasks: [{
+				id: "29B34F639CDB530B"
+				type: "item"
+				item: {
+					id: "primalmagick:primalite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -26.5d
+			id: "42B1660E121BF954"
+			tasks: [{
+				id: "51321E350B04C7FD"
+				type: "item"
+				item: {
+					id: "primalmagick:hexium_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -35.5d
+			id: "4EA21EC942F922FB"
+			tasks: [{
+				id: "103D6CF8FCADB155"
+				type: "item"
+				item: {
+					id: "primalmagick:hallowsteel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -36.5d
+			id: "4ABFB516A394734C"
+			tasks: [{
+				id: "7488947FE1928E9D"
+				type: "item"
+				item: {
+					id: "primalmagick:hallowsteel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -19.5d
+			id: "2484F76AE5FA7C3B"
+			tasks: [{
+				id: "4A51BCC82482FF20"
+				type: "item"
+				item: {
+					id: "primalmagick:forbidden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 2s
+							id: "primalmagick:essence_thief"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -35.5d
+			id: "3470CBC9B7E0FA49"
+			tasks: [{
+				id: "52325CBBBE85E3F7"
+				type: "item"
+				item: {
+					id: "frv:copper_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -21.5d
+			id: "0B7D0DC14B52CC1F"
+			tasks: [{
+				id: "3752CB0F80F3BC7A"
+				type: "item"
+				item: {
+					id: "frv:tin_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -22.5d
+			id: "16AB4903A054562B"
+			tasks: [{
+				id: "7A2E548F55F2B31D"
+				type: "item"
+				item: {
+					id: "frv:quartz_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -23.5d
+			id: "5F0561A848FEC562"
+			tasks: [{
+				id: "46983B0705688CF5"
+				type: "item"
+				item: {
+					id: "frv:lead_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -24.5d
+			id: "599E01114053568A"
+			tasks: [{
+				id: "20F35E8D530B44D0"
+				type: "item"
+				item: {
+					id: "frv:silver_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -27.5d
+			id: "0589F3A91FC07E7A"
+			tasks: [{
+				id: "4A6F11352C95496C"
+				type: "item"
+				item: {
+					id: "frv:amethyst_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -25.5d
+			id: "5FB02061C6F883E3"
+			tasks: [{
+				id: "59A642CD27073507"
+				type: "item"
+				item: {
+					id: "frv:platinum_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -36.5d
+			id: "4F0FB2EDF2C1B456"
+			tasks: [{
+				id: "61003C567A983C36"
+				type: "item"
+				item: {
+					id: "frv:meteorite_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -4.5d
+			id: "0F0D81BB4F46DCC0"
+			tasks: [{
+				id: "24009A70CB884975"
+				type: "item"
+				item: {
+					id: "omnis:ravaged_broadsword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -24.5d
+			id: "19F7333077CFD771"
+			tasks: [{
+				id: "68AA35C3CBDAD44A"
+				type: "item"
+				item: {
+					id: "omnis:haunted_broadsword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -34.5d
+			id: "41F39D22D03AC41A"
+			tasks: [{
+				id: "226931E4176F6B37"
+				type: "item"
+				item: {
+					id: "undead_expansion:rusty_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -26.5d
+			id: "5DDFA0BA3FCDE71D"
+			tasks: [{
+				id: "041AA9C558F514B6"
+				type: "item"
+				item: {
+					id: "undead_expansion:fang_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -28.5d
+			id: "29B9E35068723F22"
+			tasks: [{
+				id: "1ECFB64A2831801D"
+				type: "item"
+				item: {
+					id: "ars_nouveau:enchanters_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -27.5d
+			id: "105880BD0D6C7570"
+			tasks: [{
+				id: "09A94D1F85C327CA"
+				type: "item"
+				item: {
+					id: "greekfantasy:ivory_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -26.5d
+			id: "2EDC75C3EA408A7E"
+			tasks: [{
+				id: "34522B2C18EF6491"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -35.5d
+			id: "76D6594C2D4D4B90"
+			tasks: [{
+				id: "59293AF04B405700"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -34.5d
+			id: "06AECB447C0B8BAF"
+			tasks: [{
+				id: "7896726D7F56BBD2"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_end"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -33.5d
+			id: "6BC555A89BF8B6D2"
+			tasks: [{
+				id: "7F99FAC58DC094D0"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_sniper"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -32.5d
+			id: "79D3876BFFC0A533"
+			tasks: [{
+				id: "7E76A06FA5247BF2"
+				type: "item"
+				item: {
+					id: "gobber2:gobber2_sword_traveler"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -35.5d
+			id: "5E71045E5D86C60C"
+			tasks: [{
+				id: "67E3CD76881ED094"
+				type: "item"
+				item: {
+					id: "enigmaticlegacy:etherium_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -29.5d
+			id: "1A2EF70643AD58F5"
+			tasks: [{
+				id: "07A5FC539AAD83FA"
+				type: "item"
+				item: {
+					id: "spirit:soul_steel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -3.5d
+			id: "6BE5F5638D9DA5DC"
+			tasks: [{
+				id: "27CD5A8EA06B73E3"
+				type: "item"
+				item: {
+					id: "undergarden:cloggrum_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -28.5d
+			id: "1F62C72F298540B6"
+			tasks: [{
+				id: "3744531B0F2E88D1"
+				type: "item"
+				item: {
+					id: "undergarden:froststeel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -36.5d
+			id: "5A7D43275CCEAE41"
+			tasks: [{
+				id: "5EAD684DF473C430"
+				type: "item"
+				item: {
+					id: "undergarden:utherium_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -29.5d
+			id: "63AA6751F913F893"
+			tasks: [{
+				id: "7576821B9AE08892"
+				type: "item"
+				item: {
+					id: "undergarden:forgotten_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -26.5d
+			id: "5C2FED081F62EB20"
+			tasks: [{
+				id: "196300007EF7A176"
+				type: "item"
+				item: {
+					id: "ogres:ogre_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -30.5d
+			id: "7FBC86A188008E88"
+			tasks: [{
+				id: "0F206E9DB01F365F"
+				type: "item"
+				item: {
+					id: "rootsclassic:living_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -17.5d
+			y: -33.5d
+			id: "750B01DC790034C0"
+			tasks: [{
+				id: "447ECFFC6A24AAC4"
+				type: "item"
+				item: {
+					id: "doom:cruciblesword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -25.5d
+			id: "134EC1A259BF61EA"
+			tasks: [{
+				id: "28A84EC6374A0A70"
+				type: "item"
+				item: {
+					id: "doom:argent_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -25.5d
+			id: "7B0E9A6A91A8D84E"
+			tasks: [{
+				id: "02BED8CE2CFC4074"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:draco_arcanus_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -23.5d
+			id: "7A517F9EC51072EA"
+			tasks: [{
+				id: "0C43AE6E1D9ACD5A"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:arcane_golden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -37.5d
+			id: "4401A3F18ED7D05A"
+			tasks: [{
+				id: "5F3AC6914144C8E2"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:reinforced_arcane_golden_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -31.5d
+			id: "2445FFCDC5D7DDE9"
+			tasks: [{
+				id: "1204861F493D1D53"
+				type: "item"
+				item: {
+					id: "cwsr:earth_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -24.5d
+			id: "22FB855E9E4472A8"
+			tasks: [{
+				id: "3D71B086CA85130F"
+				type: "item"
+				item: {
+					id: "cwsr:peaceful_nature"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -22.5d
+			id: "037098BFCA605FDA"
+			tasks: [{
+				id: "7FA40FE7CEA9F3B7"
+				type: "item"
+				item: {
+					id: "cwsr:wild_nature"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -2.5d
+			id: "6913ABE1A62EB1DF"
+			tasks: [{
+				id: "797F1DB6F0021B7C"
+				type: "item"
+				item: {
+					id: "cwsr:water_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -32.5d
+			id: "2A46DE03EFEFB407"
+			tasks: [{
+				id: "018C3F0325FDC35F"
+				type: "item"
+				item: {
+					id: "cwsr:fire_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -33.5d
+			id: "49B17A00D163086F"
+			tasks: [{
+				id: "237B5B22D6372CFC"
+				type: "item"
+				item: {
+					id: "cwsr:thunder_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -34.5d
+			id: "5F2B95618AE84517"
+			tasks: [{
+				id: "444C415F4DFB74CB"
+				type: "item"
+				item: {
+					id: "cwsr:wind_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -35.5d
+			id: "6EED25438D0F97D0"
+			tasks: [{
+				id: "5050F9AD0C332923"
+				type: "item"
+				item: {
+					id: "cwsr:light_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -36.5d
+			id: "58F2BBE24D68C9FC"
+			tasks: [{
+				id: "6BCB0B18F6325709"
+				type: "item"
+				item: {
+					id: "cwsr:dark_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -37.5d
+			id: "61383A6115F87FE0"
+			tasks: [{
+				id: "2AEB2BE4F2F39FB0"
+				type: "item"
+				item: {
+					id: "cwsr:ender_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -15.5d
+			y: -38.5d
+			id: "5F4CB232EF79CC4A"
+			tasks: [{
+				id: "294CE057DF35ED72"
+				type: "item"
+				item: {
+					id: "cwsr:beast_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -23.5d
+			id: "52A1BD13AE7F9AE5"
+			tasks: [{
+				id: "018E57BA976F67E2"
+				type: "item"
+				item: {
+					id: "cwsr:meteor_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -21.5d
+			id: "182A6C3337A7FF39"
+			tasks: [{
+				id: "3D5F75880B39A596"
+				type: "item"
+				item: {
+					id: "cwsr:combustion_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -22.5d
+			id: "1BBAB6525F3BCC34"
+			tasks: [{
+				id: "4A58234F2D14B73B"
+				type: "item"
+				item: {
+					id: "cwsr:ice_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -21.5d
+			id: "15E587C85B5C86D8"
+			tasks: [{
+				id: "38DAFFF50255D228"
+				type: "item"
+				item: {
+					id: "cwsr:thunder_shock"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -34.5d
+			id: "4DCF7CDAB2569E57"
+			tasks: [{
+				id: "7FC768C793994386"
+				type: "item"
+				item: {
+					id: "cwsr:wind_boom"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -33.5d
+			id: "6B32E114B5743252"
+			tasks: [{
+				id: "3983162F3A636203"
+				type: "item"
+				item: {
+					id: "cwsr:dark_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -38.5d
+			id: "3224B59141426B07"
+			tasks: [{
+				id: "035AD50F4095DA58"
+				type: "item"
+				item: {
+					id: "cwsr:light_nether"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -20.5d
+			id: "446B64B52239A8B9"
+			tasks: [{
+				id: "4C231B9971FDDA84"
+				type: "item"
+				item: {
+					id: "cwsr:ender_portal"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -37.5d
+			id: "3382DB7973B36FDD"
+			tasks: [{
+				id: "0516CAB6700A9DF1"
+				type: "item"
+				item: {
+					id: "cwsr:golem_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -38.5d
+			id: "052C5C4504FFF939"
+			tasks: [{
+				id: "65D0BDD6FFC71A60"
+				type: "item"
+				item: {
+					id: "cwsr:wind_impulse"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -32.5d
+			id: "67F3E42F12819607"
+			tasks: [{
+				id: "737E945F3C0E93A8"
+				type: "item"
+				item: {
+					id: "cwsr:thunderstorm_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -24.5d
+			id: "29859AA117F98F2E"
+			tasks: [{
+				id: "544AB26EF1D09A30"
+				type: "item"
+				item: {
+					id: "cwsr:meteoric_thunderstorm"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -19.5d
+			id: "65EE750438E66A97"
+			tasks: [{
+				id: "78E2CE5C7A669E68"
+				type: "item"
+				item: {
+					id: "cwsr:ender_fire"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -18.5d
+			id: "598A39EDA8BD2262"
+			tasks: [{
+				id: "4F35A0A83BC73C04"
+				type: "item"
+				item: {
+					id: "cwsr:ender_wind"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -17.5d
+			id: "042EEDEE9FCD2876"
+			tasks: [{
+				id: "57510C68981952B6"
+				type: "item"
+				item: {
+					id: "cwsr:ender_thunder"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -13.5d
+			y: -20.5d
+			id: "2FB3C7554BFD17C7"
+			tasks: [{
+				id: "06F8384F8D0625DC"
+				type: "item"
+				item: {
+					id: "cwsr:time_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -16.5d
+			id: "2E1832EB5DF266E1"
+			tasks: [{
+				id: "7F33D970FEFFA00D"
+				type: "item"
+				item: {
+					id: "cwsr:steam_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -31.5d
+			id: "487485A5D29D6575"
+			tasks: [{
+				id: "0E9D56B3ECB22A6D"
+				type: "item"
+				item: {
+					id: "cwsr:tri_ender"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: -36.5d
+			id: "6F2718C6C87809B4"
+			tasks: [{
+				id: "6AFE79ACD231D313"
+				type: "item"
+				item: {
+					id: "cwsr:cyan_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -11.5d
+			y: -15.5d
+			id: "45D8F38BF99A57FC"
+			tasks: [{
+				id: "304F45F4FBB0C6CF"
+				type: "item"
+				item: {
+					id: "cwsr:atlantis_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -9.5d
+			y: -30.5d
+			id: "0FF7D0D4B3025BA4"
+			tasks: [{
+				id: "4DB100044C3EF497"
+				type: "item"
+				item: {
+					id: "cwsr:wind_blast"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -21.5d
+			y: -39.5d
+			description: ["Usable levels 0-10"]
+			id: "426DB64E74EDC561"
+			tasks: [{
+				id: "38E34929D47410D7"
+				type: "checkmark"
+				title: "0-10"
+			}]
+		}
+		{
+			x: -19.5d
+			y: -39.5d
+			id: "542678F348081F9C"
+			tasks: [{
+				id: "358E99C37568D4DF"
+				type: "checkmark"
+				title: "10-20"
+			}]
+		}
+		{
+			x: -17.5d
+			y: -39.5d
+			id: "699BE56755C0AB22"
+			tasks: [{
+				id: "37D31F0DFD0985AC"
+				type: "checkmark"
+				title: "20-30"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -39.5d
+			id: "05EA0502EF83226F"
+			tasks: [{
+				id: "75AB9B09AF169267"
+				type: "checkmark"
+				title: "30-40"
+			}]
+		}
+		{
+			x: -13.5d
+			y: -39.5d
+			id: "7F259A69AF39B1D7"
+			tasks: [{
+				id: "1C8D793A38FEA13E"
+				type: "checkmark"
+				title: "40-50"
+			}]
+		}
+		{
+			x: -11.5d
+			y: -39.5d
+			id: "735371F5639CD036"
+			tasks: [{
+				id: "671C954288DBB92B"
+				type: "checkmark"
+				title: "50-60"
+			}]
+		}
+		{
+			title: "60-70"
+			x: -9.5d
+			y: -39.5d
+			id: "5CA9FA8508A8C9DC"
+			tasks: [{
+				id: "410A02C017D04048"
+				type: "checkmark"
+				title: "60+"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -39.5d
+			id: "1A7A0FEAD78F0EB8"
+			tasks: [{
+				id: "23AE943DE83A04A3"
+				type: "checkmark"
+				title: "70-100"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -39.5d
+			id: "63CC096A80034BBA"
+			tasks: [{
+				id: "008CE8114FA3C529"
+				type: "checkmark"
+				title: "100+"
+			}]
+		}
+		{
+			icon: {
+				id: "tconstruct:tinkers_anvil"
+				Count: 1b
+				tag: {
+					texture: "create:brass_block"
+				}
+			}
+			x: -6.0d
+			y: -45.5d
+			description: ["You can also use Tinkers and Tetra to create your own weapons"]
+			id: "708E69BB0FD64D1A"
+			tasks: [{
+				id: "1B01DD564E704E93"
+				type: "checkmark"
+				title: "Tinkers"
+			}]
+		}
+		{
+			x: -15.5d
+			y: -1.5d
+			id: "7F2BB64B61B7596C"
+			tasks: [{
+				id: "5BE929EFB27FBA69"
+				type: "item"
+				item: {
+					id: "medieval_craft:katana"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

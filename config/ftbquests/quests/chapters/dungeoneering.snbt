@@ -1,0 +1,19 @@
+{
+	id: "503CDF7086E8F90D"
+	group: ""
+	order_index: 2
+	filename: "dungeoneering"
+	title: "DUNGEONEERING"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: -1.0d
+		y: -3.0d
+		id: "00181CA8AD959091"
+		tasks: [{
+			id: "73C1637CB1BCAC34"
+			type: "checkmark"
+			title: "DUNGEONS AND BOSSES COMING SOON!"
+		}]
+	}]
+}
